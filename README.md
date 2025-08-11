@@ -6,6 +6,3 @@ It replicates the Spotify user interface, including the sidebar, navigation, mus
 
 # Teacher
 Vedant Vidulkar
-
-# student
-Sigma Student
